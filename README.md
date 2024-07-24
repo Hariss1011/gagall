@@ -20,7 +20,7 @@ Membandingkan performa model Linear Regression, Random Forest Regressor, dan Gra
 Melakukan tuning hyperparameter untuk meningkatkan performa model.
 
 Alur Penyelesaian
-mermaid
+'''mermaid
 Copy code
 graph LR
    A[Mulai] --> B[Load dan Preprocessing Data]
